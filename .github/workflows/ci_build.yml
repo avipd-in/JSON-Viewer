@@ -4,7 +4,8 @@ on:
   push:
     branches: [ "master" ]
   pull_request:
-     workflow_dispatch:
+     branches: [ "master" ]
+  workflow_dispatch:
 
 env:
   BUILD_DIR: src\Build\Bin
