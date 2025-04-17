@@ -16,6 +16,7 @@ This plugin is designed to display JSON strings in a Treeview format and highlig
 
 ## Latest Updates:
 
+
 ### 2.1.1.0
 
 1. New features:
